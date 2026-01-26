@@ -1,0 +1,59 @@
+[
+  {
+    "Id": "23094837-A3C4-4ED1-9F5A-99690D5E9FFE",
+    "NameAr": "الرئيسية",
+    "NameEn": "Home",
+    "Url": "/home-workspace",
+    "IsDropdown": false,
+    "State": 0,
+    "Squence": 0,
+    "IsHide": 0,
+    "CanDelete": 0
+  },
+  {
+    "Id": "05841DA0-6DAD-4D37-9F47-570661D158C5",
+    "NameAr": "الخدمات الرقمية",
+    "NameEn": "Digital Services",
+    "Url": "",
+    "IsDropdown": true,
+    "State": 0,
+    "Squence": 1,
+    "IsHide": 0,
+    "CanDelete": 0
+  },
+  {
+    "Id": "1437F571-CB35-4432-9E8A-7BACD0D2CB06",
+    "NameAr": "الحلول",
+    "NameEn": "Solutions",
+    "Url": "",
+    "IsDropdown": true,
+    "State": 0,
+    "Squence": 2,
+    "IsHide": 0,
+    "CanDelete": 0
+  },
+  {
+    "Id": "70002D79-2AAB-4FD2-9A69-D6CA177FADC5",
+    "NameAr": "أخبار الهيئة",
+    "NameEn": "Authority News",
+    "Url": "/digital-media-news-details",
+    "WorkspaceKey": 45,
+    "IsDropdown": false,
+    "State": 0,
+    "Squence": 3,
+    "IsHide": 0,
+    "CanDelete": 1
+  },
+  {
+    "Id": "9AE6483F-7A44-462D-AF89-E7DEF69243E1",
+    "NameAr": "عن الهيئة",
+    "NameEn": "About the Authority",
+    "Url": "/organization-profile/digital-media",
+    "WorkspaceKey": 46,
+    "IsDropdown": false,
+    "State": 0,
+    "Squence": 4,
+    "IsHide": 0,
+    "CanDelete": 1
+  }
+]
